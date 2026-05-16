@@ -1,0 +1,10 @@
+{
+  "name": "Phone Tap Counter",
+  "short_name": "Tap Counter",
+  "description": "A tiny installable tap counter for your phone.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#eef2ff",
+  "theme_color": "#4f46e5",
+  "icons": []
+}
